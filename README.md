@@ -47,7 +47,7 @@ A production web application built for a small taxi business to manage customer 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔗 Repo: https://github.com/peripateticlearner/repo-gallery  
+🔗 Repo: https://alikirat.github.io/github-repo-gallery/
 
 - ⚡ Async API requests with error handling
 - 🎯 Client-side filtering and responsive UI
