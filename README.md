@@ -1,71 +1,95 @@
-# 👋 Hi, I’m **Ali Kirat**
+# 👋 Hi, I'm **Ali Kirat**
 
-## 💻 Full-Stack Software Engineer (MERN) | React | Node.js | Educator at Heart
+## 💻 Full-Stack Software Engineer | React · TypeScript · Node.js · Python · AI/LLM Integration
 
-Full-stack software engineer with **3+ years of experience** building and deploying production web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**.
+Full-stack software engineer with **2+ years of experience** building and deploying production web applications using React, TypeScript, Node.js, Python, and MongoDB. I integrate LLM APIs and AI agent systems as a core part of how I build — not as an afterthought.
 
-I focus on creating **secure APIs, scalable databases, and responsive user interfaces**, and I bring strong communication and leadership skills from my background in education and community work.
+I bring strong communication and cross-functional collaboration skills from a background in education and business consulting, and I use Claude Code and GitHub Copilot as daily development tools.
 
 📍 Claremont, CA  
-📧 **alikirat.dev@gmail.com**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--kirat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kirat)  
-[![GitHub](https://img.shields.io/badge/GitHub-peripateticlearner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peripateticlearner)
+📧 alikirat.dev@gmail.com  
+[![Portfolio](https://img.shields.io/badge/Portfolio-alikirat.netlify.app-0077B5?style=for-the-badge&logo=netlify&logoColor=white)](https://alikirat.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--kirat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kirat)
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 ### 🚕 Atlas Taxi — Full-Stack Ride Booking Platform
 
-A production web application built for a small taxi business to manage customer bookings and ride scheduling.
+A production MERN stack application with TypeScript, JWT authentication, role-based dashboards, and CI/CD deployment.
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 🔗 **Live Demo:** https://atlastaxi.netlify.app  
-🔗 **Frontend Repo:** https://github.com/peripateticlearner/frontend-capstone  
-🔗 **Backend Repo:** https://github.com/peripateticlearner/backend-capstone  
+🔗 **Frontend Repo:** https://github.com/alikirat/frontend-capstone  
+🔗 **Backend Repo:** https://github.com/alikirat/backend-capstone
 
 **Highlights**
-- 🔐 JWT authentication with secure httpOnly cookies
+- 🔐 JWT authentication with bcrypt, secure httpOnly cookies, and role-based access control
 - 📅 Ride scheduling and admin management dashboard
 - 🔁 12+ protected REST API endpoints with validation and error handling
-- 🗄 MongoDB data modeling with indexing and role-based access
-- ☁️ Deployed using Netlify, Render, and MongoDB Atlas
+- 🗄 MongoDB data modeling with indexing
+- ☁️ CI/CD deployment via GitHub Actions to Netlify and Render
 
 ---
 
-## 🧩 Additional Projects
+### 🤖 AI Developer Chatbot — Multi-Provider LLM Application
 
-### 🗂 GitHub Repository Gallery — GitHub API Explorer
+A production AI chatbot integrating Anthropic Claude and Groq APIs with real-time streaming, prompt engineering, and a secure backend proxy.
 
-**Tech:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
 
-🔗 Repo: https://alikirat.github.io/github-repo-gallery/
+🔗 **Live Demo:** https://akdev-chatbot.netlify.app
 
-- ⚡ Async API requests with error handling
-- 🎯 Client-side filtering and responsive UI
-- 🧱 Modular component architecture
+**Highlights**
+- 🔁 Real-time streaming responses from multiple LLM providers
+- 🔐 Secure backend proxy for API key isolation and request validation
+- 💬 Conversation state management and prompt engineering
+- ⚡ Error recovery and graceful fallback handling
+
+---
+
+### 🎓 School Dropout Prevention — Multi-Agent AI System
+
+A distributed multi-agent system built for a Kaggle x Google competition using Google's Agent Development Kit with seven specialized agents.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+**Highlights**
+- 🤖 Seven specialized agents with coordination logic and data pipelines
+- 📊 Output evaluation tooling and validation workflows
+- 🔄 Fault-tolerant inter-agent communication and error recovery
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -73,6 +97,19 @@ A production web application built for a small taxi business to manage customer 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI & LLM
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -82,22 +119,25 @@ A production web application built for a small taxi business to manage customer 
 
 ---
 
-## 🔭 What I’m Working On
-- 🚕 Expanding Atlas Taxi with ride history, filtering, and booking confirmations
-- 📄 Building a dynamic resume website with React
-- 🤖 Exploring AI agents and automation workflows
+## 🏆 Certifications
+
+- 🤖 **AI Agents Intensive** — Kaggle x Google | Dec 2025 | Multi-agent systems, LLM orchestration, tool use, and evaluation using Gemini and Google ADK
+- 💻 **Frontend Development** — Skillcrush | Dec 2022
+- ⚙️ **Software Engineering** — Per Scholas | Apr 2025 | Full-Stack JavaScript, TypeScript, React, Node.js
 
 ---
 
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alikirat&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alikirat&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect
-I’m actively seeking **full-stack** and **frontend-focused** software engineering roles.
+## 🤝 Let's Connect
 
+I'm actively seeking **full-stack** and **AI-focused** software engineering roles.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alikirat.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://alikirat.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--kirat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kirat)
-
 [![Email](https://img.shields.io/badge/Email-alikirat.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikirat.dev@gmail.com)
