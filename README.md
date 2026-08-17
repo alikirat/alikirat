@@ -19,6 +19,8 @@ I bring strong communication and cross-functional collaboration skills from a ba
 
 A production MERN stack application with TypeScript, JWT authentication, role-based dashboards, and CI/CD deployment.
 
+![Atlas Taxi screenshot](images/atlas-taxi.png)
+
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,12 +40,15 @@ A production MERN stack application with TypeScript, JWT authentication, role-ba
 - 🔁 12+ protected REST API endpoints with validation and error handling
 - 🗄 MongoDB data modeling with indexing
 - ☁️ CI/CD deployment via GitHub Actions to Netlify and Render
+- 📜 Licensed PolyForm Shield — source-available, not open source
 
 ---
 
 ### 🤖 AI Developer Chatbot — Multi-Provider LLM Application
 
 A production AI chatbot integrating Anthropic Claude and Groq APIs with real-time streaming, prompt engineering, and a secure backend proxy.
+
+![Chatbot screenshot](images/chatbot.png)
 
 **Tech Stack:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -61,19 +66,51 @@ A production AI chatbot integrating Anthropic Claude and Groq APIs with real-tim
 
 ---
 
-### 🎓 School Dropout Prevention — Multi-Agent AI System
+### 🎯 JobMatch AI — AI-Powered Job Search Assistant
 
-A distributed multi-agent system built for a Kaggle x Google competition using Google's Agent Development Kit with seven specialized agents.
+An AI-powered job search assistant that ingests job postings, scores them against your resume, analyzes skill gaps, and helps optimize your resume content — surfaced through a swipeable review interface.
+
+![JobMatch AI screenshot](images/jobmatch-ai.png)
+
+**Tech Stack:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+🔗 **Repo:** https://github.com/alikirat/jobmatch-ai
+
+**Highlights**
+- 🔁 Multi-stage agent graph: ingest → ATS gate check → semantic fit scoring → gap analysis → resume optimization
+- ⚙️ FastAPI backend with MongoDB persistence
+- 📱 React + TypeScript swipeable review interface
+- 🤖 Google ADK 2.0 workflow powered by Gemini
+- 🔌 Adzuna API integration for live job ingestion
+- 📜 Licensed PolyForm Noncommercial — source-available, not open source
+
+---
+
+### 🎧 Customer Support Graph Agent — Multi-Agent Support Routing
+
+A graph-based AI customer support representative built with Google ADK 2.0. Classifies incoming customer queries and routes them to a shipping FAQ agent or a polite decline node for out-of-scope requests.
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+🔗 **Repo:** https://github.com/alikirat/customer-support-agent
 
 **Highlights**
-- 🤖 Seven specialized agents with coordination logic and data pipelines
-- 📊 Output evaluation tooling and validation workflows
-- 🔄 Fault-tolerant inter-agent communication and error recovery
+- 🧭 Graph workflow with Pydantic-based query classification
+- 📦 Shipping FAQ agent with playful, emoji-rich responses
+- 🚫 Polite decline routing for out-of-scope queries
+- 🧪 Unit-tested with ruff/ty validation
+- 🐳 Dockerized for deployment
 
 ---
 
