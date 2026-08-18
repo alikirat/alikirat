@@ -44,25 +44,29 @@ A production MERN stack application with TypeScript, JWT authentication, role-ba
 
 ---
 
-### 🤖 AI Developer Chatbot — Multi-Provider LLM Application
+### 🤖 Chatbot — AI Chat App with Per-User Accounts
 
-A production AI chatbot integrating Anthropic Claude and Groq APIs with real-time streaming, prompt engineering, and a secure backend proxy.
+A chat app built with the Groq API, with JWT-based user accounts so each person's conversation history is private to their own account.
 
 ![Chatbot screenshot](images/chatbot.png)
 
 **Tech Stack:**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
-🔗 **Live Demo:** https://akdev-chatbot.netlify.app
+🔗 **Live Demo:** https://akdev-chatbot.netlify.app  
+🔗 **Frontend Repo:** https://github.com/alikirat/chatbot  
+🔗 **Backend Repo:** https://github.com/alikirat/chatbot-backend
 
 **Highlights**
-- 🔁 Real-time streaming responses from multiple LLM providers
-- 🔐 Secure backend proxy for API key isolation and request validation
-- 💬 Conversation state management and prompt engineering
-- ⚡ Error recovery and graceful fallback handling
+- 🔐 JWT-based user accounts (register/login), bcrypt-hashed passwords
+- 🔒 Chats scoped per user, with ownership checks on every read/write
+- 💬 Groq-powered chat responses with persistent conversation history
+- 🧪 One-click demo login for trying it out without signing up
 
 ---
 
