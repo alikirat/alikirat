@@ -31,14 +31,15 @@ A production MERN stack application with TypeScript, JWT authentication, role-ba
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 🔗 **Live Demo:** https://atlastaxi.netlify.app  
-🔗 **Frontend Repo:** https://github.com/alikirat/frontend-capstone  
-🔗 **Backend Repo:** https://github.com/alikirat/backend-capstone
+🔗 **Frontend Repo:** https://github.com/alikirat/atlas-taxi-frontend  
+🔗 **Backend Repo:** https://github.com/alikirat/atlas-taxi-backend
 
 **Highlights**
 - 🔐 JWT authentication with bcrypt, secure httpOnly cookies, and role-based access control
-- 📅 Ride scheduling and admin management dashboard
+- 📅 Ride scheduling, cancellation, and admin management dashboard
 - 🔁 12+ protected REST API endpoints with validation and error handling
 - 🗄 MongoDB data modeling with indexing
+- 🧪 Vitest + Supertest test suite against an in-memory MongoDB
 - ☁️ CI/CD deployment via GitHub Actions to Netlify and Render
 - 📜 Licensed PolyForm Shield: source-available, not open source
 
@@ -66,7 +67,8 @@ A chat app built with the Groq API, with JWT-based user accounts so each person'
 - 🔐 JWT-based user accounts (register/login), bcrypt-hashed passwords
 - 🔒 Chats scoped per user, with ownership checks on every read/write
 - 💬 Groq-powered chat responses with persistent conversation history
-- 🧪 One-click demo login for trying it out without signing up
+- 🧪 Vitest + Supertest test suite against an in-memory MongoDB
+- 🔑 One-click demo login for trying it out without signing up
 
 ---
 
