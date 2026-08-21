@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Software Engineer | React · TypeScript · Node.js · Python · AI/LLM Integration
 
-Full-stack software engineer with **2+ years of experience** building and deploying production web applications using React, TypeScript, Node.js, Python, and MongoDB. I integrate LLM APIs and AI agent systems as a core part of how I build — not as an afterthought.
+Full-stack software engineer with **2+ years of experience** building and deploying production web applications using React, TypeScript, Node.js, Python, and MongoDB. I integrate LLM APIs and AI agent systems as a core part of how I build, not as an afterthought.
 
 I bring strong communication and cross-functional collaboration skills from a background in education and business consulting, and I use Claude Code and GitHub Copilot as daily development tools.
 
@@ -15,7 +15,7 @@ I bring strong communication and cross-functional collaboration skills from a ba
 
 ## ⭐ Featured Projects
 
-### 🚕 Atlas Taxi — Full-Stack Ride Booking Platform
+### 🚕 Atlas Taxi: Full-Stack Ride Booking Platform
 
 A production MERN stack application with TypeScript, JWT authentication, role-based dashboards, and CI/CD deployment.
 
@@ -40,11 +40,11 @@ A production MERN stack application with TypeScript, JWT authentication, role-ba
 - 🔁 12+ protected REST API endpoints with validation and error handling
 - 🗄 MongoDB data modeling with indexing
 - ☁️ CI/CD deployment via GitHub Actions to Netlify and Render
-- 📜 Licensed PolyForm Shield — source-available, not open source
+- 📜 Licensed PolyForm Shield: source-available, not open source
 
 ---
 
-### 🤖 Chatbot — AI Chat App with Per-User Accounts
+### 🤖 Chatbot: AI Chat App with Per-User Accounts
 
 A chat app built with the Groq API, with JWT-based user accounts so each person's conversation history is private to their own account.
 
@@ -70,9 +70,9 @@ A chat app built with the Groq API, with JWT-based user accounts so each person'
 
 ---
 
-### 🎯 JobMatch AI — AI-Powered Job Search Assistant
+### 🎯 JobMatch AI: AI-Powered Job Search Assistant
 
-An AI-powered job search assistant that ingests job postings, scores them against your resume, analyzes skill gaps, and helps optimize your resume content — surfaced through a swipeable review interface.
+An AI-powered job search assistant that ingests job postings, scores them against your resume, analyzes skill gaps, and helps optimize your resume content, surfaced through a swipeable review interface.
 
 ![JobMatch AI screenshot](images/jobmatch-ai.png)
 
@@ -93,11 +93,11 @@ An AI-powered job search assistant that ingests job postings, scores them agains
 - 📱 React + TypeScript swipeable review interface
 - 🤖 Google ADK 2.0 workflow powered by Gemini
 - 🔌 Adzuna API integration for live job ingestion
-- 📜 Licensed PolyForm Noncommercial — source-available, not open source
+- 📜 Licensed PolyForm Noncommercial: source-available, not open source
 
 ---
 
-### 🎧 Customer Support Graph Agent — Multi-Agent Support Routing
+### 🎧 Customer Support Graph Agent: Multi-Agent Support Routing
 
 A graph-based AI customer support representative built with Google ADK 2.0. Classifies incoming customer queries and routes them to a shipping FAQ agent or a polite decline node for out-of-scope requests.
 
@@ -162,9 +162,9 @@ A graph-based AI customer support representative built with Google ADK 2.0. Clas
 
 ## 🏆 Certifications
 
-- 🤖 **AI Agents Intensive** — Kaggle x Google | Dec 2025 | Multi-agent systems, LLM orchestration, tool use, and evaluation using Gemini and Google ADK
-- 💻 **Frontend Development** — Skillcrush | Dec 2022
-- ⚙️ **Software Engineering** — Per Scholas | Apr 2025 | Full-Stack JavaScript, TypeScript, React, Node.js
+- 🤖 **AI Agents Intensive**: Kaggle x Google | Dec 2025 | Multi-agent systems, LLM orchestration, tool use, and evaluation using Gemini and Google ADK
+- 💻 **Frontend Development**: Skillcrush | Dec 2022
+- ⚙️ **Software Engineering**: Per Scholas | Apr 2025 | Full-Stack JavaScript, TypeScript, React, Node.js
 
 ---
 
