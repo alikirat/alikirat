@@ -103,6 +103,8 @@ An AI-powered job search assistant that ingests job postings, scores them agains
 
 A graph-based AI customer support representative built with Google ADK 2.0. Classifies incoming customer queries and routes them to a shipping FAQ agent or a polite decline node for out-of-scope requests.
 
+![Customer Support Graph Agent workflow](images/customer-support-agent.png)
+
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
