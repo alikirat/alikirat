@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Software Engineer | React · TypeScript · Node.js · Python · AI/LLM Integration
 
-Full-stack software engineer with **2+ years of experience** building and deploying production web applications using React, TypeScript, Node.js, Python, and MongoDB. I integrate LLM APIs and AI agent systems as a core part of how I build, not as an afterthought.
+Full-stack software engineer building and deploying production web applications using React, TypeScript, Node.js, Python, and MongoDB. I integrate LLM APIs and AI agent systems as a core part of how I build, not as an afterthought.
 
 I bring strong communication and cross-functional collaboration skills from a background in education and business consulting, and I use Claude Code and GitHub Copilot as daily development tools.
 
