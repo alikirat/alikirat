@@ -122,12 +122,40 @@ A graph-based AI customer support representative built with Google ADK 2.0. Clas
 
 ---
 
+### 📦 Equipment Tracker: Internal Asset Checkout System
+
+An internal tool for tracking physical equipment and asset checkouts. Staff check items in and out with live status updates, admins manage the catalog and checkout history through a separate panel.
+
+![Equipment Tracker screenshot](images/equipment-tracker.png)
+
+**Tech Stack:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-F59E0B?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+🔗 **Repo:** https://github.com/alikirat/equipment-tracker
+
+**Highlights**
+- 🔁 Livewire check-out/check-in flow, no page reloads
+- 🔍 Alpine-powered live search on the equipment list
+- 📧 Queued overdue-return email notification, dispatched as a real job
+- 📝 Event/listener pair logging every checkout
+- 🗂️ FilamentPHP admin panel with read-only checkout history to protect the audit trail
+- 📜 Licensed PolyForm Shield: source-available, not open source
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -141,7 +169,9 @@ A graph-based AI customer support representative built with Google ADK 2.0. Clas
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI & LLM
